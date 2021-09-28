@@ -6,24 +6,52 @@ tellus, ut fringilla nibh ultrices ac. Integer nec felis auctor, tempor nisi et,
 mauris eget pretium. Proin ac leo nec risus consequat elementum. Suspendisse dolor felis, laoreet sit amet dignissim ut,
 ultricies eget arcu. Fusce et lacus eu massa pellentesque mattis eu at sem.
 
-<div class="px-4">
+
 <table width="100%" cellpadding="0">
-  <tr>
-    <td colspan="2">
-      <img style="width: 100%;" src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/cap_ons_crd_01.jpg"
-        alt="Captain America" />
-    </td>
-  </tr>
-  <tr>
-    <td width="10%"><strong>User Name</strong></td>
-    <td>Testing</td>
-  </tr>
-  <tr>
-    <td><strong>Responsibilty</strong></td>
-    <td>Project Manager</td>
-  <tr>
-    <td><strong>Contact</strong></td>
-    <td><a href="#">@testing</a></td>
-  </tr>
+    <thead>
+        <tr>
+            <td width="8%"><strong>Avatar</strong></td>
+            <td valiang><strong>User Name</strong></td>
+            <td valiang><strong>Responsibilty</strong></td>
+            <td valiang><strong>Contact</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img style="width: 100%;" src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/cap_ons_crd_01.jpg"
+            alt="Captain America" />
+        </td>
+        <td valign="top">Testing</td>
+        <td valign="top">Project Manager</td>
+        <td valign="top"><a href="#">@testing</a></td>
+      </tr>
+      <tr>
+        <td>
+          <img style="width: 100%;" src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/cap_ons_crd_01.jpg"
+            alt="Captain America" />
+        </td>
+        <td valign="top">Testing</td>
+        <td valign="top">Project Manager</td>
+        <td valign="top"><a href="#">@testing</a></td>
+      </tr>
+      <tr>
+        <td>
+          <img style="width: 100%;" src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/cap_ons_crd_01.jpg"
+            alt="Captain America" />
+        </td>
+        <td valign="top">Testing</td>
+        <td valign="top">Project Manager</td>
+        <td valign="top"><a href="#">@testing</a></td>
+      </tr>
+      <tr>
+        <td>
+          <img style="width: 100%;" src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/cap_ons_crd_01.jpg"
+            alt="Captain America" />
+        </td>
+        <td valign="top">Testing</td>
+        <td valign="top">Project Manager</td>
+        <td valign="top"><a href="#">@testing</a></td>
+      </tr>
+    </tbody>
 </table>
-</div>
