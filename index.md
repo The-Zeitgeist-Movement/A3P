@@ -1,8 +1,3 @@
----
----
-
-@import "https://github.com/The-Zeitgeist-Movement/A3P/blob/main/assets/css/style.scss";
-
 # A3P
 <div class="outter">
     <div><strong>Home</strong></div>
