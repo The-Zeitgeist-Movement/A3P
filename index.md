@@ -1,9 +1,9 @@
 # A3P
-<div class="outter" style="display: flex; widht: 100%; justify-content: center;">
-    <div style=""><strong>Home</strong></div>
-    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
-    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
-    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
+<div class="outter" style="display: flex; widht: 100%; justify-content: space-between; align-content: stretch;">
+    <div style="text-align: center;"><strong>Home</strong></div>
+    <div style="text-align: center;"><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
+    <div style="text-align: center;"><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
+    <div style="text-align: center;"><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
 </div>
 
 ## Hello world
