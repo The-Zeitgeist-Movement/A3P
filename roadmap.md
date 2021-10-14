@@ -1,10 +1,10 @@
 # A3P Roadmap
 
 <div class="outter" style="display: flex; widht: 100%; justify-content: center;">
-    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P">Home</a></div>
-    <div style=""><strong>Team</div>
-    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
-    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
+    <div><a href="https://the-zeitgeist-movement.github.io/A3P">Home</a></div>
+    <div><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
+    <div><strong>Roadmap</strong></div>
+    <div><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
 </div>
 
 ## Timeline
