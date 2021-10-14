@@ -1,9 +1,14 @@
+---
+---
+
+@import "https://github.com/The-Zeitgeist-Movement/A3P/blob/main/assets/css/style.scss";
+
 # A3P
-<div class="outter" style="display: flex; widht: 100%; justify-content: space-between; align-content: stretch;">
-    <div style="text-align: center; border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;border-left: 1px solid #ccc;"><strong>Home</strong></div>
-    <div style="text-align: center; border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;border-left: 1px solid #ddd;"><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
-    <div style="text-align: center; border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;border-left: 1px solid #ddd;"><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
-    <div style="text-align: center; border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;border-left: 1px solid #ddd;border-right: 1px solid #ddd"><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
+<div class="outter">
+    <div><strong>Home</strong></div>
+    <div><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
+    <div><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
+    <div><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
 </div>
 
 ## Hello world
