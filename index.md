@@ -3,10 +3,10 @@
 <table width="100%" cellpadding="0">
     <thead>
         <tr>
-            <td width="8%"><strong>Home</strong></td>
-            <td valiang><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></td>
-            <td valiang><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></td>
-            <td valiang><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></td>
+            <td width="25%" valiang><strong>Home</strong></td>
+            <td width="25%" valiang><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></td>
+            <td width="25%" valiang><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></td>
+            <td width="25%" valiang><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></td>
         </tr>
     </thead>
 </table>
