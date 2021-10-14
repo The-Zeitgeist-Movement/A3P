@@ -1,15 +1,10 @@
 # A3P
-
-<table width="100%" cellpadding="0">
-    <thead>
-        <tr>
-            <td width="25%" valiang><strong>Home</strong></td>
-            <td width="25%" valiang><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></td>
-            <td width="25%" valiang><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></td>
-            <td width="25%" valiang><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></td>
-        </tr>
-    </thead>
-</table>
+<div class="outter" style="display: flex; widht: 100%; justify-content: center;">
+    <div style=""><strong>Home</strong></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
+</div>
 
 ## Hello world
 
