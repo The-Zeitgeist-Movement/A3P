@@ -1,5 +1,12 @@
 # A3P Roadmap
 
+<div class="outter" style="display: flex; widht: 100%; justify-content: center;">
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P">Home</a></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/team"><strong>Team</strong></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
+</div>
+
 We anticipate an overall result within the following time frame:
 
 ## Token Conceptualization
