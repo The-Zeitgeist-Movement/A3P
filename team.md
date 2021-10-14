@@ -7,12 +7,11 @@
     <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
 </div>
 
-
+## Day Ones
 We are a mixed bunch of like minded individuals with a common goal, to change the world for the betterment of all the living creatures that live in it.
 You can help too.
 
 <a href="http://example.com/" style="padding: 5px 10px; background-color: #006A6F;">Join Us</a>
-
 
 <table width="100%" cellpadding="0">
     <thead>
