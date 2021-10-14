@@ -1,5 +1,13 @@
 # A3P Team
 
+<div class="outter" style="display: flex; widht: 100%; justify-content: center;">
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P">Home</a></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
+    <div style=""><strong>Roadmap</strong></div>
+    <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
+</div>
+
+
 We are a mixed bunch of like minded individuals with a common goal, to change the world for the betterment of all the living creatures that live in it.
 You can help too.
 
