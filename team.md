@@ -1,10 +1,9 @@
 # A3P Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat suscipit arcu, a vulputate mauris ultrices
-vitae. Ut ut convallis urna. Curabitur ut justo quis ante ultricies sagittis in tincidunt dui. Donec imperdiet vehicula
-tellus, ut fringilla nibh ultrices ac. Integer nec felis auctor, tempor nisi et, porta nibh. Maecenas gravida ultrices
-mauris eget pretium. Proin ac leo nec risus consequat elementum. Suspendisse dolor felis, laoreet sit amet dignissim ut,
-ultricies eget arcu. Fusce et lacus eu massa pellentesque mattis eu at sem.
+We are a mixed bunch of like minded individuals with a common goal, to change the world for the betterment of all the living creatures that live in it.
+You can help too.
+
+<a href="http://example.com/" style="padding: 5px 10px; background-color: #006A6F;">Join Us</a>
 
 
 <table width="100%" cellpadding="0">
