@@ -7,6 +7,7 @@
     <div><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
 </div>
 
+
 ## Timeline
 We anticipate an overall result within the following time frame:
 
