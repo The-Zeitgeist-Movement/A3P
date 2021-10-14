@@ -7,37 +7,38 @@
     <div style=""><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
 </div>
 
+## Timeline
 We anticipate an overall result within the following time frame:
 
-## Token Conceptualization
+### Token Conceptualization
 //todo: text goes here
 
-## Smart Contract Development
+### Smart Contract Development
 //todo: text goes here
 
-## SmartContract Penetration Testing
+### SmartContract Penetration Testing
 //todo: text goes here
 
-## Initial Coin Offering Fair Launch
+### Initial Coin Offering Fair Launch
 //todo: text goes here
 
-## CetriK Audit
+### CetriK Audit
 //todo: text goes here
 
-## iOS/Android Application Development (A3P App)
+### iOS/Android Application Development (A3P App)
 //todo: text goes here
 
-## New DEX listings
+### New DEX listings
 //todo: text goes here
 
-## A3P App Release
+### A3P App Release
 //todo: text goes here
 
-## 2022 U.S Midterm Election engagement!
+### 2022 U.S Midterm Election engagement!
 //todo: text goes here
 
-## New Exchange Listings
+### New Exchange Listings
 //todo: text goes here
 
-## 2024 U.S Presidential Election engagement!
+### 2024 U.S Presidential Election engagement!
 //todo: text goes here
