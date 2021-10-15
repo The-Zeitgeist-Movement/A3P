@@ -5,6 +5,15 @@
 
 $primary: #101722;
 $secondary: #af8850;
+$link: #5077AF;
+
+a {
+  color: $link; 
+  
+  &:hover {
+    color: lighten($link, 5%); 
+  }
+}
 
 .page-header {
   background-image: url('https://raw.githubusercontent.com/The-Zeitgeist-Movement/A3P/main/assets/images/background-default.jpg');
