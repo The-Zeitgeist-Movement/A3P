@@ -6,7 +6,9 @@
 $gray: #444;
 
 .page-header {
-  background-color: $gray;   
+  background-color: $gray;
+  background-image: url('https://github.com/The-Zeitgeist-Movement/A3P/blob/main/assets/images/background-default.jpg');
+  background-size: cover;
 }
 
 .outter {
