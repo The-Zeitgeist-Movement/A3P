@@ -8,6 +8,12 @@ $primary: #101722;
 .page-header {
   background-image: url('https://raw.githubusercontent.com/The-Zeitgeist-Movement/A3P/main/assets/images/background-default.jpg');
   background-size: cover;
+  background-color: $primary;
+}
+
+.project-name {
+  font-size: 4rem;
+  text-shadow: 0 0 10px $primary;
 }
 
 .main-content {
