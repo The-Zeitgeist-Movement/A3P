@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 $primary: #101722;
+$secondary: #af8850;
 
 .page-header {
   background-image: url('https://raw.githubusercontent.com/The-Zeitgeist-Movement/A3P/main/assets/images/background-default.jpg');
@@ -48,5 +49,9 @@ $primary: #101722;
     &:last-of-type {
       border-right: 1px solid #ddd;
     }
+  }
+  
+  .active {
+    color: #af8850;
   }
 }
