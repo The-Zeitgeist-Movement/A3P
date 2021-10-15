@@ -6,18 +6,18 @@
   width: 100%; 
   display: flex;
   justify-content: space-between;
-}
-
-.outter > div {
-  width: 25%;
-  display: block;
-  text-align: center; 
-  padding: 20px;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-}
-
-.outter > div:last-of-type {
-  border-right: 1px solid #ddd;
+  
+  > div {
+    width: 25%;
+    display: block;
+    text-align: center; 
+    padding: 20px;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  
+    &:last-of-type {
+      border-right: 1px solid #ddd;
+    }
+  }
 }
