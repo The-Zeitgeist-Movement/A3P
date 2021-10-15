@@ -2,6 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+$gray: #444;
+
+.page-header {
+  background-color: $gray;   
+}
+
 .outter {
   width: 100%; 
   display: flex;
