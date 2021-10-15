@@ -19,6 +19,10 @@ $primary: #101722;
   h6 {
     color: $primary;
   }
+  
+  h1:first-child {
+    display: none; 
+  }
 }
 
 .outter {
