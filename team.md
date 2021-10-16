@@ -2,7 +2,7 @@
 
 <div class="outter" style="display: flex; widht: 100%; justify-content: center;">
     <div><a href="https://the-zeitgeist-movement.github.io/A3P">Home</a></div>
-    <div><strong>Team</strong></div>
+    <div>Team</div>
     <div><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
     <div><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
 </div>
