@@ -1,6 +1,6 @@
 # A3P
 <div class="outter">
-    <div class="active"><strong>Home</strong></div>
+    <div class="active">Home</div>
     <div><a href="https://the-zeitgeist-movement.github.io/A3P/team">Team</a></div>
     <div><a href="https://the-zeitgeist-movement.github.io/A3P/roadmap">Roadmap</a></div>
     <div><a href="https://the-zeitgeist-movement.github.io/A3P/contact">Contact</a></div>
