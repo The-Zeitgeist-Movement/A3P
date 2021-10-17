@@ -38,12 +38,12 @@ ANPAC is also dedicated to ecological conservation reform both in the United Sta
 ### CRYPTOCURRENCY PROTECTION
 Protecting the rights of Amerficans to own, trade and otherwise utilize cryptocurrencies on the global blockchain. 
 
-### ENVIORNMENTAL PROTECTION
+### ENVIROMENTAL PROTECTION
 Supporting legislation and legislators who support climate change reform and economically beneficial projects to reverse and reduce human-driven impact on the ecology. 
 
 The American NFT Political Action Committee (ANPAC) is a unique experiment in the political organizing space. 
 
-Support pro-Cryptocurrency and pro-Ecology legislation while buying ERC20 tokens which will gradually increase in value
+Support pro-cryptocurrency and pro-ecology legislation while buying ERC20 tokens which will gradually increase in value
 ANPAC doesn't ask you tp "donate" your money. Instead we offer you a stake in our mission by giving you a financial asset for your support.
 
 
