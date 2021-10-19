@@ -8,7 +8,7 @@
 
 ## ANPAC ABOUT US
 
-The objective of ANPAC is to educate and persuade policy makers to support pro-cryptocurrency policy agendas that benefit cryptocurrency technology in the U.S. And to support pro-climate change reform both within the United States and on the world stage to help leave a better world for the future.
+The objective of ANPAC is to educate and persuade policy makers to support pro-cryptocurrency policy agendas that benefit cryptocurrency technology in the U.S. And to support pro-climate change reform both within the United States and on the world stage.
 
 [PRO CLIMATE CHANGE REFORM]      [PRO CRYPTOCURRENCY LEGISLATION]    
 
@@ -16,31 +16,33 @@ The objective of ANPAC is to educate and persuade policy makers to support pro-c
 
 
 
-        Buy ANPAC token to suport the PAC :    [BUTTON TO BUY TOKEN] 
+        Buy ANPAC token :    [BUTTON TO BUY TOKEN] 
         
         ANPAC CONTRACT ADDRESS: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
         
-        
+      
 ## Advantage of supporting ANPAC
  
-Buy and own a ERC20 token that you can trade on the open cryptocurrency markets and join the global crypto adoption.
+Buy and own a ERC20 token that you can trade on the open and decentrelized cryptocurrency markets and join the global crypto adoption.
  
 Vote on all ANPAC governance matters using the iOS/Android voting DApp. Influence the strongest PAC in the United States and help build a brighter future.  
  
 ## POLICY AGENDA 
  
-ANPAC supports policies that protect the right of american citizens to freely own and transact using cryptocurencies without the worry of restrictive government regulation. ANPAC is dedicated to supporting policies that promote individual freedoms, the growth of cryptocurrency adoption in the United States and investor protection. 
+ANPAC supports policies that protect the right of american citizens to freely own and transact using cryptocurencies without the worry of restrictive government regulation. ANPAC is dedicated to supporting policies that promote individual freedoms, the growth of cryptocurrency adoption in the United States and crypto investor protection. 
 
-ANPAC is also dedicated to ecological conservation reform both in the United States and abroad.
+ANPAC is dedicated to ecological conservation reform both in the United States and abroad. We believe that the science is undesputable, human caused climate change is a threat to both national and global security and we're going to do our part to focus legislators on this issue. 
  
 ## KEY ISSUES 
+
  
 ### CRYPTOCURRENCY PROTECTION
 Protecting the rights of Amerficans to own, trade and otherwise utilize cryptocurrencies on the global blockchain. 
 
 ### ENVIROMENTAL PROTECTION
-Supporting legislation and legislators who support climate change reform and economically beneficial projects to reverse and reduce human-driven impact on the ecology. 
+Supporting legislation and legislators who support climate change reform and economically beneficial projects to reverse and reduce human-driven impact on our ecology. 
 
+# // Banner Ad //
 The American NFT Political Action Committee (ANPAC) is a unique experiment in the political organizing space. 
 
 Support pro-cryptocurrency and pro-ecology legislation while buying ERC20 tokens which will gradually increase in value
